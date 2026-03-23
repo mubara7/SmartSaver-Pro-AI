@@ -1,0 +1,19 @@
+/* Sidebar ko thora stylish banane ke liye */
+.stSidebar {
+    background-color: #f0f2f6;
+    border-right: 1px solid #e6e9ef;
+}
+
+/* Success messages par thora glow */
+.stAlert {
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+/* Custom Button Style */
+div.stButton > button:first-child {
+    background-color: #00ff41; /* Hacker Green */
+    color: black;
+    border: none;
+    font-weight: bold;
+}

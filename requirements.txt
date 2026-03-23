@@ -1,0 +1,6 @@
+streamlit
+crewai
+langchain_openai
+python-dotenv
+playwright
+beautifulsoup4

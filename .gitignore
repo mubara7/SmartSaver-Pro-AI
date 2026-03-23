@@ -1,0 +1,15 @@
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Environments
+.env
+venv/
+env/
+
+# Data
+*.json
+*.sqlite
+
+# Streamlit
+.streamlit/
